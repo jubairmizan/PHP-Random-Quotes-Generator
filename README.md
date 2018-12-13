@@ -1,2 +1,2 @@
-# PHP-Random-Quotes-Generator
-Random Quotes Generator With Packagist
+# PHP-Random-Quotes-Generator-Library
+Random Quotes Generator Library With Packagist
