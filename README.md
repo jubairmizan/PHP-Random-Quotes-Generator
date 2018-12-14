@@ -35,3 +35,6 @@ ex: $rq = new \RandomQuotes\RandomQuotes();
 Call the RandomQuotes Method and give the parameter of what amount of random word you want to show on your project 
 
 ex: echo $rq->generateRandomQuotes(100);
+
+
+**Enjoy the library**
