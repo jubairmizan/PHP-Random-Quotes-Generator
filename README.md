@@ -11,9 +11,10 @@ Random Quotes Generator Library With Packagist
 
 **Library Install**
 
-Run this command on your composer 
-
 **Step 01**
+
+
+Run this command on your composer 
 
 composer require jubairmizan/random-quotes-generator
 
