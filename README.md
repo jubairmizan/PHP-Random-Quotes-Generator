@@ -14,16 +14,23 @@ Random Quotes Generator Library With Packagist
 Run this command on your composer 
 
 **Step 01**
+
 composer require jubairmizan/random-quotes-generator
 
 **Step 02**
+
 Require the autoload.php on your vendor folder
+
 ex: require_once('./vendor/autoload.php');
 
 **Step 03**
+
 Create an object for access the library class
+
 ex: $rq = new \RandomQuotes\RandomQuotes();
 
 **Step 04**
+
 Call the RandomQuotes Method and give the parameter of what amount of random word you want to show on your project 
+
 ex: echo $rq->generateRandomQuotes(100);
