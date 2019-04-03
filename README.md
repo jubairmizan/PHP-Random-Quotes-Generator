@@ -13,7 +13,6 @@ Random Quotes Generator Library With Packagist
 
 **Step 01**
 
-
 Run this command on your composer 
 
 composer require jubairmizan/random-quotes-generator
